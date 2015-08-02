@@ -1,0 +1,14 @@
+Var a;
+Var v;
+Debut
+a = 0-90;
+v=25;
+BasPinceau;
+Avance 250;
+Tourne a;
+Avance 250;
+Tourne a;
+TANT QUE v FAIRE v=v-1; Avance 1;;
+Tourne a;
+Avance 250;
+Fin

@@ -1,0 +1,16 @@
+Var a;
+Var v;
+Debut
+a = 0-90;
+v = 1;
+SI v ALORS v=0; COLOR red; SINON COLOR blue;;
+BasPinceau;
+Avance 250;
+Tourne a;
+Avance 250;
+Tourne a;
+Avance 250;
+Tourne a;
+Avance 250;
+Fin
+

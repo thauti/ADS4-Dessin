@@ -1,0 +1,19 @@
+Var a;
+Var v;
+Debut
+a = 0-90;
+Avance 250;
+Tourne a;
+Avance 100;
+BasPinceau;
+COLOR red;
+Avance 100;
+COLOR blue;
+Taille 5;
+Tourne a;
+Avance 150;
+COLOR green;
+Taille 10;
+Tourne a;
+Avance 50;
+Fin
