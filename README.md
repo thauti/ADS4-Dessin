@@ -49,7 +49,7 @@ Active/Désactive le dessin
 
 ```<Variable> = <Int>;```
 
-Donne la valeur <Int> à la variable <Variable>
+Assigne la valeur <Int> à la variable <Variable>
 
 ```Tourne <Variable>/<Int>;```
 
