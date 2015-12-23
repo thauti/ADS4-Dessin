@@ -2,7 +2,7 @@
 Projet de ADS4 (JFlex)
 
 ##Résumé
-Le but du projet était de créé à l'aide d'un analyseur syntaxique un interpréteur permettant la création d'image.
+Le but du projet était de créer à l'aide d'un analyseur syntaxique un interpréteur permettant la création d'image.
 L'interpréteur va prendre ses instructions dans un fichier texte et dessiner à l'écran une image construite à partir de ces instructions.
 *Voir fichier Exemple*
 
